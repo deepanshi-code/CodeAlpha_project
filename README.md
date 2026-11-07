@@ -7,6 +7,8 @@ Two binary-classification projects completed for the CodeAlpha ML internship:
 | 1 | [Task1_Credit_Scoring.ipynb](Task1_Credit_Scoring.ipynb) | Is a loan applicant creditworthy? |
 | 2 | [Task2_Disease_Prediction.ipynb](Task2_Disease_Prediction.ipynb) | Does a patient have the disease? |
 
+> **Follow-up to Task 2:** I redid disease prediction on real clinical data (Pima Indians Diabetes) as a standalone project with a deployed app: **[SugarSieve](https://github.com/deepanshi-code/SugarSieve)** · [live app](https://sugarsieve.streamlit.app/)
+
 Each notebook follows the same workflow:
 **problem & metric choice → data checks → EDA → stratified train/test split → baselines → cross-validated model comparison → tuning → held-out test evaluation → interpretation → error analysis → limitations.**
 
